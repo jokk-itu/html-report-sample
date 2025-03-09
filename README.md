@@ -1,2 +1,3 @@
-# api-template
-Template project when creating a dotnet api
+# html-renderer-sample
+
+Sample API project to illustrate usage of the HtmlRenderer.
